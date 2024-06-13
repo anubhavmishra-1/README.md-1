@@ -34,8 +34,8 @@ contract newToken {
 
     // public variables here
 
-    string public tokenName = "";
-    string public tokenAbbrev = "";
+    string public tokenName = "NEWTOKEN";
+    string public tokenAbbrev = "NTK";
     uint public totalSupply = 0;
 
     // mapping variable here
